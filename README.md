@@ -38,3 +38,11 @@ Just change the commnad/ParserController to other url which you need.
         // this will parse the pages
         $items = $parser->parse();
 ```
+
+## Examples 
+
+[Link for the pdf](https://github.com/jasco-b/Parser-for-lifestylefitness.getcourse.ru/blob/master/web/pdf/№1._Банановые_вафли_(понедельник).pdf
+)
+
+![screenshot](https://github.com/jasco-b/Parser-for-lifestylefitness.getcourse.ru/blob/master/screenshot.png "Logo Title Text 1")
+
